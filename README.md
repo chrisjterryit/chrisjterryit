@@ -1,7 +1,7 @@
 # Christopher (Chris) Terry
 
 **Technical Troubleshooter & Safety Trainer** | Systems Diagnostics, Root Cause Analysis & Procedures People Actually Follow
-Garland, TX · Dallas–Fort Worth
+Grapevine, TX · Dallas–Fort Worth
 
 I find the real cause behind problems that keep coming back, then turn what I learn into procedures people can actually follow.
 
