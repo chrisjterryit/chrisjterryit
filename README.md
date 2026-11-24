@@ -15,5 +15,6 @@ I find the real cause behind problems that keep coming back, then turn what I le
 
 - **Portfolio and case studies:** [chrisjterryit.github.io](https://chrisjterryit.github.io)
 - **Featured case study:** [Fix the System, Not the Part](https://chrisjterryit.github.io/#project), tracing repeat overheating on water-cooled welders to system resistance instead of pump failure
+- **Resume (PDF):** [Download](https://chrisjterryit.github.io/Christopher-Terry-Resume.pdf)
 - **LinkedIn:** [linkedin.com/in/chris-terry-safetytr](https://www.linkedin.com/in/chris-terry-safetytr)
 - **Email:** [chrisjterry.it@gmail.com](mailto:chrisjterry.it@gmail.com)
