@@ -9,6 +9,11 @@ I find the real cause behind problems that keep coming back, then turn what I le
 - 8 years diagnosing automotive and industrial collision-repair equipment: hydraulic, electrical and cooling systems
 - Specialisterne USA Academy: IT & AI Fundamentals (2026)
 
+**Certifications**
+
+- IBM SkillsBuild: Information Technology Fundamentals (Nov 2026) · [Verify](https://www.credly.com/badges/b0c5a29b-e108-474d-a8c2-391cb18bdd8c)
+- IBM SkillsBuild: AI Fundamentals: Foundations for Understanding AI (Nov 2026) · [Verify](https://www.credly.com/badges/eafdf646-c553-42ec-9d38-303d5ab10486)
+
 **Open to:** reliability · field service · product testing · safety training · data center facilities · technical support (DFW)
 
 ## Start here
